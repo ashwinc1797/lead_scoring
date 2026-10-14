@@ -1,4 +1,4 @@
-# lead_scoring
+# AI based Lead classification
 <a id="background"></a>
 <h2>   
       <font color = Yellow >
