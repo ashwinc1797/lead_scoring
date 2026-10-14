@@ -1,0 +1,8 @@
+streamlit
+xgboost==3.4.1
+pandas
+numpy
+joblib
+# xgb_pipeline.pkl was saved with scikit-learn 1.6.1; pickles only load reliably on the same version.
+# scikit-learn 1.6.1 needs Python 3.13 or older.
+scikit-learn==1.6.1
